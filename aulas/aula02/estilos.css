@@ -1,0 +1,42 @@
+html{
+    height: 100%;
+}
+
+body{
+    display: flex;
+    flex-direction: column;
+    margin: auto;
+}
+
+header{
+    flex: 3;
+    display: flex;
+    justify-content: space-between;
+    background-color: blue;
+    color: white;
+}
+
+main{
+    flex: 6;
+}
+
+footer{
+    flex: 1;
+}
+
+nav{
+    display: flex;
+    align-items: center;
+}
+
+ul{
+    min-width: 300px;
+    display: flex;
+    justify-content: space-around;
+    list-style: none;
+}
+
+nav ul li a{
+    color: inherit;
+    text-decoration: none;
+}
