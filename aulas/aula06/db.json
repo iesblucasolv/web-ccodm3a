@@ -1,0 +1,19 @@
+{
+  "contatos": [
+    {
+      "nome": "José junior",
+      "telefone": "98888-8888",
+      "id": "1"
+    },
+    {
+      "id": "7b66",
+      "nome": "Maria",
+      "telefone": "99999-9999"
+    },
+    {
+      "id": "5d8d",
+      "nome": "lucas",
+      "telefone": "7777-7777"
+    }
+  ]
+}
